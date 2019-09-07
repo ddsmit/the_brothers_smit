@@ -1,4 +1,4 @@
-import configuration
+from configuration import configuration
 import pytest
 
 @pytest.fixture

@@ -1,6 +1,3 @@
-import arcade
-import configuration
-
 class CharacterFactory:
     pass
 
