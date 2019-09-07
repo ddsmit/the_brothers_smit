@@ -1,0 +1,9 @@
+test_character:
+  hp: 100
+  ap: 100
+  dp: 60
+  mp: 1
+  md: 30
+  actions:
+    - actions.jab
+    - actions.slice
